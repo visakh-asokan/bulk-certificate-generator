@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.db
+*.db-wal
+*.db-shm
+storage/
+*.pdf
+*.zip
+big_request.json.DS_Store

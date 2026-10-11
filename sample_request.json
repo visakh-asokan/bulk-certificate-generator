@@ -1,0 +1,12 @@
+{
+  "course_name": "Introduction to Machine Learning",
+  "issuer_name": "Acme Academy",
+  "issue_date": "2026-10-09",
+  "recipients": [
+    {"name": "Asha Rao", "email": "asha.rao@example.com"},
+    {"name": "Daniel Okafor", "email": "daniel.okafor@example.com"},
+    {"name": "Mei Tanaka", "email": "mei.tanaka@example.com"},
+    {"name": "", "email": "blank.name@example.com"},
+    {"name": "Lucas Meyer", "email": "not-an-email"}
+  ]
+}
